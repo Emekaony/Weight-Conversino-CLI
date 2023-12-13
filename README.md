@@ -1,0 +1,1 @@
+## Simple CLI in rust practicing the basics.
